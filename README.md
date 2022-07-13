@@ -767,7 +767,7 @@ julien@ubuntu:~/brainfuck$
 <!-- Task Body -->
   <p>Multiply two digits given by the user.<br />
 <br />
-<img src="http://mein-fun.com/data/media/5/brainfuck_bean.jpg" /><br />
+<img src="#" /><br />
 <br /></p>
 
 <ul>
